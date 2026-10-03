@@ -91,3 +91,5 @@ body.detail-open .detail{display:block}
 .country > h2 a{text-decoration:none}
 .country-page h2,.set-page h2{font-family:Fraunces,Georgia,serif;font-weight:500;font-size:1.35rem;letter-spacing:-.02em}
 .country > h2 .num{font-family:Fraunces,Georgia,serif;color:var(--red);margin-right:8px}
+
+.frame img.contain{object-fit:contain;background:#f7f1e6}

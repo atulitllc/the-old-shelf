@@ -97,3 +97,8 @@ Logo: Option B cassette mark copied to `images/logo-b-cassette-mark.svg`; the fu
 ## Real-photo replacement pass (Oct 3, 2026)
 
 Replaced 9 labeled SVG cards with downloaded Commons photographs: Camlin geometry box (generic), Natraj pencil (generic), steel tiffin, chalked white PT shoes (generic white canvas trainers), gulal, Sankranti kite, Japan uwabaki, Japan onigiri, and a U.S. thermos (generic, photographed in Sweden). The plastic Indian pichkari remains the Rajasthan Holi photograph. Sources and licenses are in CREDITS.md.
+
+
+## Dan licensed photo pass (Oct 3, 2026)
+
+Used: Parle-G (existing Commons photo refreshed), Natraj pencil container, Campa Cola shelf photo, unbranded Kerala Codd bottle for Delhi banta, Umaibō, mango Ramune, White Rabbit tin, Orion Choco Pie, Capri-Sun pouch, and karamell plombir. The supplied Diwali anar/flower-pot image was inspected and skipped because the cracker is visibly lit. Frooti, Rasna, Uncle Chipps, Kismi, Phantom/Harnik, Gold Spot as a separate item, Binaca charm, phuljhari, chakri, and the other explicitly no-pack-shot items remain labeled stills.

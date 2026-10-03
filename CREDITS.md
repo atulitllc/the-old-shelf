@@ -95,8 +95,6 @@ Every picture in the mock is a local copy of a Wikimedia Commons file. If a lice
 | `images/generic/india-uncle-chipps.svg` | Uncle Chipps (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-phantom-chalk-candy.svg` | Phantom chalk candy (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-kismi-elaichi-toffee.svg` | Kismi elaichi toffee (India) | Original labeled still made for this catalog; no external image. |
-| `images/generic/india-gold-spot.svg` | Gold Spot (India) | Original labeled still made for this catalog; no external image. |
-| `images/generic/india-delhi-banta.svg` | Delhi banta lemon soda (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-binaca-charm.svg` | Binaca toothpaste animal charm (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-diwali-chakri.svg` | Unlit Diwali chakri (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-diwali-anar.svg` | Unlit Diwali anar (India) | Original labeled still made for this catalog; no external image. |
@@ -109,7 +107,6 @@ Every picture in the mock is a local copy of a Wikimedia Commons file. If a lice
 | `images/generic/japan-undo-hachimaki.svg` | Undōkai hachimaki (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-human-pyramid.svg` | Undōkai human pyramid (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-dagashiya.svg` | Dagashiya (Japan) | Original labeled still made for this catalog; no external image. |
-| `images/generic/japan-umaibo.svg` | Umaibō (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-fugashi.svg` | Fugashi (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-ramune-candy.svg` | Ramune candy (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-kinako-ame.svg` | Kinako-ame (Japan) | Original labeled still made for this catalog; no external image. |
@@ -153,7 +150,6 @@ Every picture in the mock is a local copy of a Wikimedia Commons file. If a lice
 | `images/generic/united-states-bologna-white.svg` | Bologna on white (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-handi-snacks.svg` | Handi-Snacks (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-string-cheese.svg` | String cheese (United States) | Original labeled still made for this catalog; no external image. |
-| `images/generic/united-states-capri-sun.svg` | Capri-Sun (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-sunny-delight.svg` | Sunny Delight (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-squeezits.svg` | Squeezits (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-fruit-roll-up.svg` | Fruit Roll-Up (United States) | Original labeled still made for this catalog; no external image. |
@@ -291,3 +287,12 @@ Every picture in the mock is a local copy of a Wikimedia Commons file. If a lice
 | `images/japan-uwabaki.jpg` | Uwabaki at a Japanese junior high school | CC BY-SA 3.0, Ken Ishikawa. [Commons source](https://commons.wikimedia.org/wiki/File:Uwabaki_02.jpg) |
 | `images/japan-onigiri.jpg` | Homemade Japanese rice balls | CC BY-SA 3.0, tednmiki. [Commons source](https://commons.wikimedia.org/wiki/File:Japanese_rice_balls_(onigiri).jpg) |
 | `images/us-thermos.jpg` | 1960s Thermos flask, photographed in Sweden | CC BY-SA 4.0, Bengt Oberger. [Commons source](https://commons.wikimedia.org/wiki/File:Thermos_flask_Termoverken.jpg) |
+| `images/india-natraj-pencil-box.jpg` | Natraj pencil container | CC BY-SA 4.0, शिव साहिल. [Commons source](https://commons.wikimedia.org/wiki/File:Natraj_pencil_container.jpg) |
+| `images/india-campa-shelf.jpg` | Campa Cola orange flavor on a Reliance Mart shelf in Ahmedabad | CC BY-SA 4.0, CGGCA201. [Commons source](https://commons.wikimedia.org/wiki/File:Campa_Cola_-_Orange_Flavor,_Reliance_Mart,_ISCON_Mall,_Ahmedabad.jpg) |
+| `images/india-delhi-banta.png` | Unbranded Codd-neck soda bottle from Kerala, India | CC BY-SA 3.0, Viswaprabha. [Commons source](https://commons.wikimedia.org/wiki/File:Codd-neck_Soda_Water_Bottle_from_Kerala.png) |
+| `images/japan-umaibo.jpg` | Umaibō object photograph | CC BY-SA 3.0; author not stated on file page. [Commons source](https://commons.wikimedia.org/wiki/File:Umaibou.jpg) |
+| `images/japan-ramune-mango.jpg` | Mango-flavor Ramune bottle | CC BY-SA 3.0, BrokenSphere. [Commons source](https://commons.wikimedia.org/wiki/File:Ramune_mango_flavor.JPG) |
+| `images/china-white-rabbit-tin.jpg` | Tin of White Rabbit sweets | Public domain; Gohwz assumed on file page. [Commons source](https://commons.wikimedia.org/wiki/File:Tin_of_White_Rabbit_Sweets.jpg) |
+| `images/korea-choco-pie.jpg` | Orion Choco Pie package | CC0, Quercus acuta. [Commons source](https://commons.wikimedia.org/wiki/File:ORION_-_Choco_Pie.jpg) |
+| `images/us-capri-sun.jpg` | Capri-Sun pouch standing | CC BY-SA 4.0, Tamzin Hadasa Kelly. [Commons source](https://commons.wikimedia.org/wiki/File:Capri_Sun_pouch_standing.jpg) |
+| `images/russia-plombir-karamell.jpg` | Karamell plombir | CC BY-SA 3.0, GeoTrinity. [Commons source](https://commons.wikimedia.org/wiki/File:Plombir_karamell.jpg) |
