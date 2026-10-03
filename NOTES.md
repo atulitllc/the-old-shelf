@@ -67,3 +67,28 @@ Lena must check these files before anything goes live. A preview before real URL
 ## Paper
 
 The ground is a generated worn-paper tile (`css/paper.jpg`): uneven tone, fiber lines, and faint stains. Cream, ink, and label red are unchanged.
+
+
+
+
+
+## Catalog expansion (Oct 3, 2026)
+
+Every requested slot on the full country lists has a card. Verified Commons/free photographs are used where available; remaining slots use original labeled stills, never scraped frames, character stills, trademark redraws, or unlabeled stand-ins. Every page remains `noindex` with canonical `./`.
+
+Added cards by country:
+
+- **India (24)**: Shaktimaan towel cape, Chandrakanta Sunday slot, Hindi DuckTales and TaleSpin Sunday slot, Parle-G biscuit, Frooti tetra packs, Rasna glasses, Uncle Chipps, Camlin geometry box, Natraj pencil, Steel tiffin, Chalked white PT shoes, Phantom chalk candy, Kismi elaichi toffee, Gold Spot, Delhi banta lemon soda, Binaca toothpaste animal charm, Unlit Diwali chakri, Unlit Diwali anar, Unlit Diwali phuljhari, Holi pichkari, Gulal, Makar Sankranti kite, Posham Pa hand-gate game, Cyber cafe.
+- **Japan (30)**: Randoseru, Kyushoku lunch tray, Kyushoku lunch bag, Jan-ken leftover milk carton, Rinsed milk cartons, Uwabaki indoor shoes, Undōkai hachimaki, Onigiri, Undōkai human pyramid, Dagashiya, Umaibō, Fugashi, Ramune candy, Kinako-ame, Sour plum candy, Squid stick snack, Castella stick, Super Cola gum, 300-yen candy pile, Eraser clay, Broom and dustpan, Goldfish scoop, Kakigōri, Bon odori festival scene, Beigoma, Ramune bottle, Kendama, Tin nagegoma, Paper menko, Dagashi jars.
+- **China (31)**: White Rabbit candy, Ooh/Jiajia milk-candy wrapper, Mylikes candy, Chocolate coins, Dada bubble gum, Popping candy, Tanghulu, Sugar painting, Pulled malt candy, Cotton candy, Haw flakes, Huahua Dan, Dried fig strips, Sour-plum powder, Malted milk powder, Little Raccoon noodles, Mimi shrimp sticks, Jianlibao, Green Tongue popsicle, Bar ice snapped in half, Plain ice-cream bar, Iron hoop, Tin frog, School bell, Street popcorn cart, Orange drink in a plastic sleeve, Rubber-band jumping, Latiao, Flying Pigeon bicycle, Bee & Flower soap, Pechoin products.
+- **United States (33)**: Lunchables, Bologna on white, Handi-Snacks, String cheese, Capri-Sun, Sunny Delight, Squeezits, Fruit Roll-Up, Gushers, Dunkaroos, Go-Gurt, Kudos, Twinkie, Push Pop, Pop Rocks, Doritos 3Ds, Ritz Bits, Raisin box, Thermos, Candy bins, Oscillating sprinkler, Kettle grill, Crocodile Mile slip-and-slide, Scholastic book-fair book stack, Half-pint milk bottle, View-Master Model G, Wooden yo-yo, Slinky, Wiffle bat and ball, Polaroid Supercolor 1000, Grey rotary telephone, Wax bottle candy, Painted tin buckets.
+- **Mexico (23)**: Cooperativa snack tray, Brinquitos, Velitas, Chicharrones, Saltines with hot sauce, Palelocas, Sugus, Bocadín, Duvalín, Soda in a tied bag, Boing, School-gate snacks, Paleta Escarcha, Aguas frescas jar, Paleta case, Lotería cards, Balero, Trompo, Papalote, Burro castigado game, Día del Niño, Papel picado, Trompo and balero.
+- **Brazil (22)**: Caderno, Mercur eraser, Metal pencil case, Gel pen, Faber-Castell box, Plastic clips, Mimeograph, Ábaco, Tazos, Bafo card game, Queimada game, Ping Pong gum, Minicraques football cards, Orelhão, Festa junina bandeirinhas, Quadrilha, Paçoca, Pé de moleque, Pipoca, Pião, Peteca, Geladinho.
+- **South Korea (17)**: Munbanggu stationery, Mini 4WD car, Rubber clay, Jelly-string keychain, Rainbow spring, Sticker book, Water pinball, Metal pencil case, Mandeugi, Ddakji, Banana milk, Choco Pie, Dalgona, Tteokbokki, Gonggi stones, Yut sticks, Bungeoppang.
+- **Russia (16)**: Eskimo ice cream, Faceted glass stakanchik, Lakomka ice cream, Ice-cream briket, Plombir, Sugar cone, Soviet kiosk, Buratino lemonade, Baikal drink, Duchess pear soda, Cream soda, Gazirovka machine, Tarkhun drink, New Year mandarins, Plain glass ornament, Matryoshka dolls.
+- **Turkey (16)**: Bakkal snacks, Turbo gum, Emzik şeker, Meybuz ice pop, Leblebi tozu packet, Kantin snacks, Gazoz caps, Körebe game, İstop game, Yakan top game, Beş taş, Uzun eşek game, Mahalle maçı, Uludağ Gazoz, Macun, Karagöz shadow.
+- **Nigeria (22)**: Goody Goody, Gala sausage roll, Cabin biscuit, Okin snack, Choco Milo, Robot Banana gum, Sword mint, Trebor mint, Telephone juice box, Robo Robo tube, Tasty Time sachet, Suwe game, Ten-ten game, Tinko Tinko game, Willie Willie game, Fire on the Mountain circle game, Boju boju game, Tyre race, Mineral-cork football, Biro flick, Ayo board, Whot cards.
+
+India remains the corrected list only; old Rooh Afza, cricket, matchbox, and other dropped India routes are not linked. Duplicate leads are omitted as directed (including Turkey misket and hide-and-seek, Nigeria Capri Sun, and Mexico canicas). Explicitly dropped slots remain omitted: character media, scraped UI, fireworks how-to, glass kite line, candy cigarettes, Jarts, clackers, BB guns, cerol, catapults, slap games, and çelik çomak.
+
+Logo: Option B cassette mark copied to `images/logo-b-cassette-mark.svg`; the full lockup is retained at `images/logo-b-cassette.svg`.

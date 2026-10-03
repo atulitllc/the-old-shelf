@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+<title id="title">Chocolate coins, China</title><desc id="desc">A simple labeled still for Chocolate coins.</desc>
+<rect width="900" height="600" fill="#f4ecdf"/><rect x="28" y="28" width="844" height="544" rx="3" fill="#faf6ee" stroke="#2a231c" stroke-width="3"/>
+<path d="M90 440h720M160 390h580" stroke="#d9cbb6" stroke-width="12" stroke-linecap="round"/>
+<rect x="170" y="150" width="560" height="170" rx="8" fill="#e9dcc8" stroke="#a86b1a" stroke-width="4"/>
+<text x="450" y="220" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#2a231c">Labeled still</text>
+<text x="450" y="275" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#8d2a1e">Chocolate coins</text>
+<text x="450" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#5e5348">No licensed photograph in this pass · China</text>
+</svg>

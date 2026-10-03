@@ -17,6 +17,7 @@ a{color:inherit}
 .site-header{position:sticky;top:0;z-index:20;background:rgba(232,216,192,.9);border-bottom:1px solid var(--ink)}
 .header-row{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
 .mark{display:flex;align-items:center;gap:10px;text-decoration:none;font-family:Fraunces,Georgia,serif;font-weight:600;font-size:1.55rem;letter-spacing:-.03em}
+.mark-logo{width:40px;height:26px;display:block;flex:0 0 auto;object-fit:contain}
 .seal{width:36px;height:26px;background:var(--red);color:#fff8f2;display:grid;place-items:center;font-family:"Source Sans 3",sans-serif;font-size:.72rem;font-weight:600;letter-spacing:.08em}
 .nav{display:flex;gap:16px;font-size:.92rem}
 .nav a{text-decoration:none;border-bottom:1px solid transparent}
