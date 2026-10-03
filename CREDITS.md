@@ -85,7 +85,6 @@ Every picture in the mock is a local copy of a Wikimedia Commons file. If a lice
 
 ## Catalog expansion assets
 
-Every generated `images/generic/*.svg` file is an original labeled still made for this catalog; it contains no external artwork and does not redraw a trademark.
 
 | File | What it shows | License / credit |
 | --- | --- | --- |
@@ -94,10 +93,6 @@ Every generated `images/generic/*.svg` file is an original labeled still made fo
 | `images/generic/india-hindi-ducktales-talespin-slot.svg` | Hindi DuckTales and TaleSpin Sunday slot (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-rasna.svg` | Rasna glasses (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-uncle-chipps.svg` | Uncle Chipps (India) | Original labeled still made for this catalog; no external image. |
-| `images/generic/india-camlin-geometry-box.svg` | Camlin geometry box (India) | Original labeled still made for this catalog; no external image. |
-| `images/generic/india-natraj-pencil.svg` | Natraj pencil (India) | Original labeled still made for this catalog; no external image. |
-| `images/generic/india-steel-tiffin.svg` | Steel tiffin (India) | Original labeled still made for this catalog; no external image. |
-| `images/generic/india-chalked-white-pt-shoes.svg` | Chalked white PT shoes (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-phantom-chalk-candy.svg` | Phantom chalk candy (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-kismi-elaichi-toffee.svg` | Kismi elaichi toffee (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-gold-spot.svg` | Gold Spot (India) | Original labeled still made for this catalog; no external image. |
@@ -106,16 +101,12 @@ Every generated `images/generic/*.svg` file is an original labeled still made fo
 | `images/generic/india-diwali-chakri.svg` | Unlit Diwali chakri (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-diwali-anar.svg` | Unlit Diwali anar (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-diwali-phuljhari.svg` | Unlit Diwali phuljhari (India) | Original labeled still made for this catalog; no external image. |
-| `images/generic/india-gulal.svg` | Gulal (India) | Original labeled still made for this catalog; no external image. |
-| `images/generic/india-sankranti-kite.svg` | Makar Sankranti kite (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-posham-pa.svg` | Posham Pa hand-gate game (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/india-cyber-cafe.svg` | Cyber cafe (India) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-lunch-bag.svg` | Kyushoku lunch bag (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-jan-ken-milk-carton.svg` | Jan-ken leftover milk carton (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-rinsed-milk-cartons.svg` | Rinsed milk cartons (Japan) | Original labeled still made for this catalog; no external image. |
-| `images/generic/japan-uwabaki.svg` | Uwabaki indoor shoes (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-undo-hachimaki.svg` | Undōkai hachimaki (Japan) | Original labeled still made for this catalog; no external image. |
-| `images/generic/japan-onigiri.svg` | Onigiri (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-human-pyramid.svg` | Undōkai human pyramid (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-dagashiya.svg` | Dagashiya (Japan) | Original labeled still made for this catalog; no external image. |
 | `images/generic/japan-umaibo.svg` | Umaibō (Japan) | Original labeled still made for this catalog; no external image. |
@@ -175,7 +166,6 @@ Every generated `images/generic/*.svg` file is an original labeled still made fo
 | `images/generic/united-states-doritos-3ds.svg` | Doritos 3Ds (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-ritz-bits.svg` | Ritz Bits (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-raisin-box.svg` | Raisin box (United States) | Original labeled still made for this catalog; no external image. |
-| `images/generic/united-states-thermos.svg` | Thermos (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-candy-bins.svg` | Candy bins (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-oscillating-sprinkler.svg` | Oscillating sprinkler (United States) | Original labeled still made for this catalog; no external image. |
 | `images/generic/united-states-kettle-grill.svg` | Kettle grill (United States) | Original labeled still made for this catalog; no external image. |
@@ -291,3 +281,13 @@ Every generated `images/generic/*.svg` file is an original labeled still made fo
 | `images/russia/plombir.jpg` | Plombir in a wafer | CC BY-SA 3.0, GeoTrinity. [Commons source](https://commons.wikimedia.org/wiki/File:Plombir_in_der_Waffel.jpg) |
 | `images/logo-b-cassette-mark.svg` | Option B cassette mark used in every header | Original supplied logo asset from `/workspace/the-old-shelf-logo/`. |
 | `images/logo-b-cassette.svg` | Option B cassette lockup retained with the site | Original supplied logo asset from `/workspace/the-old-shelf-logo/`. |
+| `images/geometry-box.jpg` | Generic geometry box | CC BY-SA 4.0, Gaurav Dhwaj Khadka. [Commons source](https://commons.wikimedia.org/wiki/File:Geometry_Box.jpg) |
+| `images/wooden-pencil.jpg` | Generic wooden pencils | CC BY 2.0, dejankrsmanovic. [Commons source](https://commons.wikimedia.org/wiki/File:Colorful_Wooden_Pencils_-_28452518757.jpg) |
+| `images/white-canvas-shoes.jpg` | Generic white canvas trainers | CC BY 2.0, SPERA.de Designerschuhe, Taschen und Accessoires. [Commons source](https://commons.wikimedia.org/wiki/File:Superga_COTW_LINEA_UP_%26_DOWN_Sneaker_mit_Plateau_2790A_Canvas_weiß_(white)_(1).jpg) |
+| `images/tiffin-steel.jpg` | Stacked steel tiffin boxes in Chennai, India | CC BY 2.0, McKay Savage. [Commons source](https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_Stainless_Steel_shops_-_03_(3016006648).jpg) |
+| `images/steel-lunchbox.jpg` | Generic metal lunchbox | Public domain, Missouri History Museum. [Commons source](https://commons.wikimedia.org/wiki/File:Collapsible_Metal_Lunchbox.jpg) |
+| `images/india-sankranti-kites.jpg` | Kites flying on Sankranti festival day | CC BY-SA 3.0, Bhaskaranaidu. [Commons source](https://commons.wikimedia.org/wiki/File:Kites_flying_on_sankranti_festival_day.JPG) |
+| `images/india-gulal.jpg` | Gulal powder in an Indian festival photograph | CC BY-SA 3.0, sagarmahadikphotography. [Commons source](https://commons.wikimedia.org/wiki/File:Protection_from_father_to_his_child_from_Gulal_powder_at_Kharsundi_jatra.jpg) |
+| `images/japan-uwabaki.jpg` | Uwabaki at a Japanese junior high school | CC BY-SA 3.0, Ken Ishikawa. [Commons source](https://commons.wikimedia.org/wiki/File:Uwabaki_02.jpg) |
+| `images/japan-onigiri.jpg` | Homemade Japanese rice balls | CC BY-SA 3.0, tednmiki. [Commons source](https://commons.wikimedia.org/wiki/File:Japanese_rice_balls_(onigiri).jpg) |
+| `images/us-thermos.jpg` | 1960s Thermos flask, photographed in Sweden | CC BY-SA 4.0, Bengt Oberger. [Commons source](https://commons.wikimedia.org/wiki/File:Thermos_flask_Termoverken.jpg) |

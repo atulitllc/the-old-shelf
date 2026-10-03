@@ -92,3 +92,8 @@ Added cards by country:
 India remains the corrected list only; old Rooh Afza, cricket, matchbox, and other dropped India routes are not linked. Duplicate leads are omitted as directed (including Turkey misket and hide-and-seek, Nigeria Capri Sun, and Mexico canicas). Explicitly dropped slots remain omitted: character media, scraped UI, fireworks how-to, glass kite line, candy cigarettes, Jarts, clackers, BB guns, cerol, catapults, slap games, and çelik çomak.
 
 Logo: Option B cassette mark copied to `images/logo-b-cassette-mark.svg`; the full lockup is retained at `images/logo-b-cassette.svg`.
+
+
+## Real-photo replacement pass (Oct 3, 2026)
+
+Replaced 9 labeled SVG cards with downloaded Commons photographs: Camlin geometry box (generic), Natraj pencil (generic), steel tiffin, chalked white PT shoes (generic white canvas trainers), gulal, Sankranti kite, Japan uwabaki, Japan onigiri, and a U.S. thermos (generic, photographed in Sweden). The plastic Indian pichkari remains the Rajasthan Holi photograph. Sources and licenses are in CREDITS.md.
